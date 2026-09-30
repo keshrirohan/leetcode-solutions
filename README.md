@@ -104,3 +104,19 @@
     Auto-synced by <a href="https://github.com/keshrirohan/Code_Sync">CodeSync</a>
   </sub>
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/keshrirohan/leetcode-solutions/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/keshrirohan/leetcode-solutions/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/keshrirohan/leetcode-solutions/tree/master/0392-is-subsequence) |
+<!---LeetCode Topics End-->
