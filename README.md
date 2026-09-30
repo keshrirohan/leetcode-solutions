@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/keshrirohan/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [3110-score-of-a-string](https://github.com/keshrirohan/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
