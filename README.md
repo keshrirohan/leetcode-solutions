@@ -120,4 +120,16 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/keshrirohan/leetcode-solutions/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/keshrirohan/leetcode-solutions/tree/master/0036-valid-sudoku) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/keshrirohan/leetcode-solutions/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/keshrirohan/leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
