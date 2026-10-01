@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/keshrirohan/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0704-binary-search](https://github.com/keshrirohan/leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,4 +133,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/keshrirohan/leetcode-solutions/tree/master/0036-valid-sudoku) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/keshrirohan/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
