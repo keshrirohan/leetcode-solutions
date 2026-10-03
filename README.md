@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/keshrirohan/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0078-subsets](https://github.com/keshrirohan/leetcode-solutions/tree/master/0078-subsets) |
 | [0704-binary-search](https://github.com/keshrirohan/leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -166,4 +167,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/keshrirohan/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/keshrirohan/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/keshrirohan/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
