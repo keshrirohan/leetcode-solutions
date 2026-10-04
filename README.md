@@ -115,12 +115,14 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/keshrirohan/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/keshrirohan/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [3110-score-of-a-string](https://github.com/keshrirohan/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/keshrirohan/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/keshrirohan/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/keshrirohan/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Array
 |  |
 | ------- |
@@ -181,4 +183,16 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/keshrirohan/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/keshrirohan/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/keshrirohan/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/keshrirohan/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
