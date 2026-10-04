@@ -127,6 +127,7 @@
 | [0036-valid-sudoku](https://github.com/keshrirohan/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0078-subsets](https://github.com/keshrirohan/leetcode-solutions/tree/master/0078-subsets) |
 | [0704-binary-search](https://github.com/keshrirohan/leetcode-solutions/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/keshrirohan/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,4 +176,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/keshrirohan/leetcode-solutions/tree/master/0078-subsets) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/keshrirohan/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
